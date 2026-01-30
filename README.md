@@ -1,14 +1,35 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Juan Sebastian Nuñez Guzman 
+Id.: 000592683
 ---
 # Evaluación
+# Descripcion del contenido 
+
+Como ignorar archivos con .gitignore, cómo crear un repositorio local, y cómo crear
+un repositorio remoto en GitHub y sincronizarlo con el repositorio local, todo explicado
+de forma clara, breve y principalmente sin usar comandos.
+
+# Pasos necesarios para clonar 
+
+Para clonar y ejecutar un proyecto, primero se copia el repositorio desde la plataforma remota a tu equipo local.
+Luego se accede a la carpeta del proyecto y se instalan las dependencias necesarias.
+Finalmente, se configura el entorno si es necesario y se ejecuta la aplicación para comprobar que funciona correctamente.
+
+# Tabla de contenido
+
+[mc](./docs/uso_consola.md)
+
+[mc](./docs/repositorio_remoto.md)
+
+[md](./docs/repositorio_local.md)
+
+[md](./docs/Archivo_gitignore.md)
 
 ### **Descripción de la Actividad:**
 
 Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una serie de carpetas y archivos, tal como se describe en las **Instrucciones**. En cada uno de los pasos que realices, debes crear un **commit** (en total, deben ser más de 10). Incluye imágenes, pantallazos y todo lo que consideres necesario para que tu repositorio esté organizado y se entienda. El aspecto visual es importante. Debes utilizar el lenguaje **Markdonw** para mejorar la presentación de tu proyecto.
-
 
 ## Instrucciones:
 
